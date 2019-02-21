@@ -1,0 +1,16 @@
+h1 {
+  color: black;
+  font-style: italic;
+  text-decoration: underline;
+  text-decoration-style: dotted;
+  text-shadow: 2px 2px white;
+}
+
+body {
+    background-color: #e99a51;
+  }
+
+.jumbotron{
+  color: black;
+
+}
