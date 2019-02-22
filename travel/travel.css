@@ -1,16 +1,37 @@
 h1 {
-  font-style: italic;
-  text-shadow: 2px 2px white;
-  }
+  font-style:normal;
+}
+
+
 h3 {
 font-style: italic;
-text-shadow: 2px 2px white;
+text-shadow: 2px 2px ;
 }
 body {
-    background-color: #e99a51;
+    background-color: #cedde2;
   }
 
 .jumbotron{
   color: black;
 
+}
+
+.btn-group button {
+  background-color:white
+   ; /* Green background */
+  border: 1px solid lightblue; /* Green border */
+  color: black; /* White text */
+  padding: 10px 35px; /* Some padding */
+  cursor: pointer; /* Pointer/hand icon */
+  width: 100%; /* Set a width if needed */
+  display: block; /* Make the buttons appear below each other */
+}
+
+.btn-group button:not(:last-child) {
+  border-bottom: none; /* Prevent double borders */
+}
+
+/* Add a background color on hover */
+.btn-group button:hover {
+  background-color: blue;
 }
