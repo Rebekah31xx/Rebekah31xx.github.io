@@ -1,13 +1,14 @@
 h1 {
-  font-style: italic;
+  font-style: normal;
   text-shadow: 2px 2px white;
+  font-size: 48xp;
   }
 h3 {
 font-style: italic;
 text-shadow: 2px 2px white;
 }
 body {
-    background-color: #e99a51;
+    background-color: #cedde2;
   }
 
 .jumbotron{
