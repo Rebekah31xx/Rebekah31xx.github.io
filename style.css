@@ -1,7 +1,7 @@
 h1 {
   font-style: normal;
   text-shadow: 2px 2px white;
-  font-size: 48xp;
+  font-size: 80xp;
   }
 h3 {
 font-style: italic;
@@ -13,5 +13,12 @@ body {
 
 .jumbotron{
   color: black;
+}
 
+.margin{
+  margin-left: 20px;
+}
+
+.img-rounded{
+  width: 200px;
 }
